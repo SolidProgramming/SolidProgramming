@@ -1,8 +1,3 @@
-![](https://reducemy.link/4WRH64)  
-
-  
-
-<br/>  
 
 
 ## My Skill Set  
