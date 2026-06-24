@@ -6,7 +6,9 @@
 <a href="https://linkedin.com/in/luca-w-9ba089244/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
+---
+
+[MemTools NuGet Package](https://www.nuget.org/packages/MemTools)
 <br/>
