@@ -9,6 +9,6 @@
 </div>
 
 ---
-[SoPro.FancyTable NuGet Package](https://www.nuget.org/packages/SoPro.FancyTable)
+[SoPro.FancyTable NuGet Package](https://www.nuget.org/packages/SoPro.FancyTable) <br/>
 [MemTools NuGet Package](https://www.nuget.org/packages/MemTools)
 <br/>
